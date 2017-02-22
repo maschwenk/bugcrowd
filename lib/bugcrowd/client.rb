@@ -1,6 +1,7 @@
 require 'bugcrowd/client/bounties'
 require 'bugcrowd/client/submissions'
 require 'bugcrowd/client/submission_priority'
+require 'bugcrowd/client/submissions_params'
 require 'excon'
 
 module Bugcrowd
